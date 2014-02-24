@@ -1,0 +1,6 @@
+Add/Remove/Edit Ingredients
+Add/Remove/Edit Recipes
+Add/Remove/Edit Blog Entries and Pages
+Normal Blog features (Tags, Archive, and so on)
+Upload Photos or link
+Publish to facebook/twitter/pintrest....
